@@ -1,0 +1,5 @@
+# Created at 2025-07-24T17:25:55.299
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Users\asus\intellij projects\employeemanager-master\employeemanager-master\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
